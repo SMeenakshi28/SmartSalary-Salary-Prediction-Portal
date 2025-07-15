@@ -190,7 +190,7 @@ st.markdown("<hr>", unsafe_allow_html=True)
 # Add a footer with a link to the source code
 st.markdown(
     """<div style='text-align: center; color: gray; margin-top: 10px;'>
-    View the source code on <a href='https://github.com/SMeenakshi28/SmartSalary' target='_blank' style='color: #00b4d
+    View the source code on <a href='https://github.com/SMeenakshi28/SmartSalary-Salary-Prediction-Portal' target='_blank' style='color: #00b4d
 8; text-decoration: none;'>GitHub</a>.
     </div>""",
     unsafe_allow_html=True
