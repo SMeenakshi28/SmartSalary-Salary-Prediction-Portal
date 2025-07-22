@@ -14,7 +14,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 st.set_page_config(
-    page_title="Smart Salary Predictor1",
+    page_title="Smart Salary Predictor",
     page_icon="💼",  # Path to your logo file
     layout="centered"
 )
