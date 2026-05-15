@@ -40,3 +40,8 @@ SmartSalary is a **machine learning-powered web app** built using **Streamlit** 
 | ML Framework   | Scikit-learn (RandomForest, Pipelines)   |
 | Visualization  | Matplotlib, Seaborn                       |
 | Styling        | Custom CSS with Google Fonts integration |
+
+Deployment:-
+- Deployed in Streamlit Cloud
+- Link
+https://smartsalary-salary-prediction-app.streamlit.app/
